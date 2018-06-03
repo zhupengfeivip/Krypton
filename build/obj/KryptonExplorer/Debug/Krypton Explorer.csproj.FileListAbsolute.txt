@@ -1,0 +1,9 @@
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\KryptonExplorer.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\KryptonExplorer.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\Krypton Explorer.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\Krypton Explorer.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\bin\Debug\KryptonExplorer.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\KryptonExplorer.pdb
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\Krypton Explorer.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\KryptonExplorer.exe
+D:\MyProject\Krypton.cn\build\obj\KryptonExplorer\Debug\KryptonExplorer.pdb

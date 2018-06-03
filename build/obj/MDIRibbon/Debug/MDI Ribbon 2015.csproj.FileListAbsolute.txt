@@ -1,0 +1,12 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\MDIRibbon.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\MDIRibbon.pdb
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDI Ribbon 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.Form2.resources
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.Form3.resources
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDI Ribbon 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDI Ribbon 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDI Ribbon 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.exe
+D:\MyProject\Krypton.cn\build\obj\MDIRibbon\Debug\MDIRibbon.pdb

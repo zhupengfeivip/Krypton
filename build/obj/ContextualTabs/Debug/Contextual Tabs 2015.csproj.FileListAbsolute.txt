@@ -1,0 +1,10 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\ContextualTabs.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\ContextualTabs.pdb
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\Contextual Tabs 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\ContextualTabs.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\ContextualTabs.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\Contextual Tabs 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\Contextual Tabs 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\Contextual Tabs 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\ContextualTabs.exe
+D:\MyProject\Krypton.cn\build\obj\ContextualTabs\Debug\ContextualTabs.pdb

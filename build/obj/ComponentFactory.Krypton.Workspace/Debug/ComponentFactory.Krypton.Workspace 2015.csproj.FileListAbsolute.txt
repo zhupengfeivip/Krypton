@@ -1,0 +1,10 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Workspace.XML
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Workspace\Debug\ComponentFactory.Krypton.Workspace.pdb

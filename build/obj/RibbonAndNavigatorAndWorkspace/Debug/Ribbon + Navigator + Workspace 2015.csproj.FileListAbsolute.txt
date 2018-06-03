@@ -1,0 +1,10 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\RibbonAndNavigatorAndWorkspace.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\RibbonAndNavigatorAndWorkspace.pdb
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\Ribbon + Navigator + Workspace 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\RibbonAndNavigatorAndWorkspace.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\RibbonAndNavigatorAndWorkspace.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\Ribbon + Navigator + Workspace 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\Ribbon + Navigator + Workspace 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\Ribbon + Navigator + Workspace 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\RibbonAndNavigatorAndWorkspace.exe
+D:\MyProject\Krypton.cn\build\obj\RibbonAndNavigatorAndWorkspace\Debug\RibbonAndNavigatorAndWorkspace.pdb

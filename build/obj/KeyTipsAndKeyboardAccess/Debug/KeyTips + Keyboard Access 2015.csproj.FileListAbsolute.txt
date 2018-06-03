@@ -1,0 +1,10 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\KeyTipsAndKeyboardAccess.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\KeyTipsAndKeyboardAccess.pdb
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTips + Keyboard Access 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTipsAndKeyboardAccess.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTipsAndKeyboardAccess.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTips + Keyboard Access 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTips + Keyboard Access 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTips + Keyboard Access 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTipsAndKeyboardAccess.exe
+D:\MyProject\Krypton.cn\build\obj\KeyTipsAndKeyboardAccess\Debug\KeyTipsAndKeyboardAccess.pdb

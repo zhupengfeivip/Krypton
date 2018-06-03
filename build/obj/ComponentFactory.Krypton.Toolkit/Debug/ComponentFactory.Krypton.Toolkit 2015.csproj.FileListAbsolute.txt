@@ -1,0 +1,12 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Toolkit.XML
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\MyProject\Krypton.cn\build\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.KryptonInputBox.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.VisualTaskDialog.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.KryptonMessageBox.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.ModalWaitDialog.resources
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\MyProject\Krypton.cn\build\obj\ComponentFactory.Krypton.Toolkit\Debug\ComponentFactory.Krypton.Toolkit.pdb

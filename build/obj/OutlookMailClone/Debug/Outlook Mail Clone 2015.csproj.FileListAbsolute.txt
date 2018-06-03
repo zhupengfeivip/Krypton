@@ -1,0 +1,10 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\OutlookMailClone.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\OutlookMailClone.pdb
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\Outlook Mail Clone 2015.csprojResolveAssemblyReference.cache
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\OutlookMailClone.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\OutlookMailClone.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\Outlook Mail Clone 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\Outlook Mail Clone 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\Outlook Mail Clone 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\OutlookMailClone.exe
+D:\MyProject\Krypton.cn\build\obj\OutlookMailClone\Debug\OutlookMailClone.pdb

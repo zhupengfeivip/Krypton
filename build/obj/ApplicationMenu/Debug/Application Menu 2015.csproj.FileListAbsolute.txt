@@ -1,0 +1,9 @@
+D:\MyProject\Krypton.cn\build\bin\Debug\ApplicationMenu.exe
+D:\MyProject\Krypton.cn\build\bin\Debug\ApplicationMenu.pdb
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\ApplicationMenu.Form1.resources
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\ApplicationMenu.Properties.Resources.resources
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\Application Menu 2015.csproj.GenerateResource.cache
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\Application Menu 2015.csproj.CoreCompileInputs.cache
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\Application Menu 2015.csproj.CopyComplete
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\ApplicationMenu.exe
+D:\MyProject\Krypton.cn\build\obj\ApplicationMenu\Debug\ApplicationMenu.pdb
