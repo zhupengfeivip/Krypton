@@ -1,35 +1,35 @@
 # Krypton Suite of .NET WinForms Controls
-The Krypton Suite of .NET WinForms controls are now freely available for use in personal or commerical projects.
+. net WinForms控件的Krypton套件现在可以在个人或商业项目中免费使用。
 
-I developed and sold them from my company Component Factory from 2006 until 2014, when the lack of sales meant selling the controls was no longer viable. So I decided to make them open source so that .NET developers, hobby developers in particular, had a good set of free controls to use in their projects. There is no point in all that hard work sitting on my hard drive when it could be useful to others. Full source code for all the controls and components is included along with Visual Studio 2015 projects and solution files.
+从2006年到2014年，我从我的公司零部件工厂开发并销售了这些产品，当时由于销量不足，销售这些控制产品已不再可行。所以我决定让它们成为开源的，这样。net开发人员，尤其是业余开发人员，就有了一套很好的免费控件，可以在他们的项目中使用。当我的硬盘对别人有用的时候，所有这些辛苦的工作都毫无意义。所有控件和组件的完整源代码以及Visual Studio 2015项目和解决方案文件都包含在内。
 
-# Getting Started #
-**Bin** directory contains already compiled copies of all the example projects and the Krypton assemblies, so I recommend you start by running the **Krypton Explorer** application in this directory. It lists all the controls along with an example application used to show it in operation.
+# 准备开始 #
+**Bin**目录包含已编译的所有示例项目和Krypton程序集的副本，因此我建议您首先在这个目录中运行**Krypton Explorer**应用程序。它列出了所有的控件以及用于在操作中显示的示例应用程序。
 
-# Documentation #
-**Help** directory contains a **KryptonHelp.chm** file that can be double clicked to open the documentation. I recommend you read this before developing using the Krypton controls.
+# 文档 #
+**Help**目录包含一个**KryptonHelp。可以双击的chm**文件打开文档。我建议您在使用Krypton控件进行开发之前阅读本文。
 
-# Using with Visual Studio #
- - Run the batch file **RegisterToGAC.bat** in the **Bin** directory as an admin so the assemblies are placed in the GAC
- - Start **Visual Studio** and create/open your Windows Forms project
- - Open the main Form of your application and show the **Toolbox**
- - Right click the **Toolbox** and **Add Tab**, give it the name **Krypton**
- - Right click inside the new tab and select **Choose Toolbox Items**
- - Use the **Browse** button and go to your **Bin** directory, select all the **ComponentFactory.Krypton...** assemblies
- - Ignore warning for **ComponentFactory.Krypton.Design.dll** as it does not have any controls in it
- - Select **OK** and now you have them all in the **Toolbox!**
+# Visual Studio 运行 #
+-运行批处理文件**RegisterToGAC。bat**在**Bin**目录中作为管理员，以便将程序集放在GAC中
+-启动**Visual Studio** *并创建/打开您的Windows窗体项目
+-打开你的申请表格，并显示**工具箱*
+-右键单击**工具箱**和**添加选项卡**，给它命名为** *氪** *
+-在新选项卡内右键单击并选择**选择工具箱项**
+-使用**浏览**按钮，进入**Bin*目录，选择所有**组件工厂。* *程序集
+-忽略*组件的警告。氪。设计。因为它没有任何控件
+-选择**OK**，现在你把它们都放在**工具箱里了!**。
 
-# Source #
-**Source** directory contains the full source code that you can view, modify and directly compile. The Krypton Components sub-directory contains all the actual controls, the other directories are for the myriad example projects.
+# 源代码 #
+**源代码*目录包含您可以查看、修改和直接编译的完整源代码。氪组件子目录包含所有实际的控件，其他目录用于无数示例项目。
 
 # Krypton Toolkit
-49 basic controls with full and consistent theming.
+49个基本组件，使用相同的主题。
 
 ![](/Images/home_toolkit1.gif?raw=true)  ![](/Images/home_toolkit2.gif?raw=true)  ![](/Images/home_toolkit3.gif?raw=true)
 ![](/Images/home_toolkit4.gif?raw=true)  ![](/Images/home_toolkit5.gif?raw=true)  ![](/Images/home_toolkit6.gif?raw=true)
 
 # Krypton Ribbon
-Office style ribbon control.
+Office主题控件。
 
 ![](/Images/p_ribbon1.gif?raw=true)  ![](/Images/p_ribbon2.gif?raw=true) 
 ![](/Images/p_ribbon3.gif?raw=true)  ![](/Images/p_ribbon4.gif?raw=true)
