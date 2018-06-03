@@ -1,9 +1,0 @@
-D:\MyProject\Krypton.cn\build\bin\Debug\QuickAccessToolbar.exe
-D:\MyProject\Krypton.cn\build\bin\Debug\QuickAccessToolbar.pdb
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\QuickAccessToolbar.Form1.resources
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\QuickAccessToolbar.Properties.Resources.resources
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\Quick Access Toolbar 2015.csproj.GenerateResource.cache
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\Quick Access Toolbar 2015.csproj.CoreCompileInputs.cache
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\Quick Access Toolbar 2015.csproj.CopyComplete
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\QuickAccessToolbar.exe
-D:\MyProject\Krypton.cn\build\obj\QuickAccessToolbar\Debug\QuickAccessToolbar.pdb

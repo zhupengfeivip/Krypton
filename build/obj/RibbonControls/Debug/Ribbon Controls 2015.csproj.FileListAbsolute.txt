@@ -1,9 +1,0 @@
-D:\MyProject\Krypton.cn\build\bin\Debug\RibbonControls.exe
-D:\MyProject\Krypton.cn\build\bin\Debug\RibbonControls.pdb
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\RibbonControls.Form1.resources
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\RibbonControls.Properties.Resources.resources
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\Ribbon Controls 2015.csproj.GenerateResource.cache
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\Ribbon Controls 2015.csproj.CoreCompileInputs.cache
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\Ribbon Controls 2015.csproj.CopyComplete
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\RibbonControls.exe
-D:\MyProject\Krypton.cn\build\obj\RibbonControls\Debug\RibbonControls.pdb

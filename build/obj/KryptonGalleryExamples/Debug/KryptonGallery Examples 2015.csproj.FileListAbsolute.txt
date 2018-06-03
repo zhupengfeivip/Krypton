@@ -1,9 +1,0 @@
-D:\MyProject\Krypton.cn\build\bin\Debug\KryptonGalleryExamples.exe
-D:\MyProject\Krypton.cn\build\bin\Debug\KryptonGalleryExamples.pdb
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGalleryExamples.Form1.resources
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGalleryExamples.Properties.Resources.resources
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGallery Examples 2015.csproj.GenerateResource.cache
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGallery Examples 2015.csproj.CoreCompileInputs.cache
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGallery Examples 2015.csproj.CopyComplete
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGalleryExamples.exe
-D:\MyProject\Krypton.cn\build\obj\KryptonGalleryExamples\Debug\KryptonGalleryExamples.pdb
